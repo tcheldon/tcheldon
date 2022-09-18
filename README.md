@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tcheldon
+- 👋 Hi, my name is @tcheldon and I am on a mission to become a Software Developer!
 - 🔎 I’m interested in Web Development <!--- and Blockchain 👀 --->
 - 📖 I’m currently learning Java
 - 📫 tcheldon.dev@gmail.com
