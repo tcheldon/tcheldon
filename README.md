@@ -1,4 +1,4 @@
-- 👋 Hi, my name is @tcheldon and I am on a mission to become a Software Developer!
+- 👋 Hi, my name is @tcheldon and I am on a mission to become a Software Engineer!
 - 📖 I’m currently learning C and Python
 - 📫 tcheldon.dev@gmail.com
 <!--- I’m looking to collaborate on projects that allow me to develop my skills --->
