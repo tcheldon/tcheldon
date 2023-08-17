@@ -1,6 +1,5 @@
 - 👋 Hi, my name is @tcheldon and I am on a mission to become a Software Developer!
-- 🔎 I’m interested in Web Development
-- 📖 I’m currently learning JavaScript and Node
+- 📖 I’m currently learning C and Python
 - 📫 tcheldon.dev@gmail.com
 <!--- I’m looking to collaborate on projects that allow me to develop my skills --->
 
