@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Tcheldon and I am on a mission to become a Software Engineer!
 - 📖 I’m currently using C, Django and learning a bit of Machine Learning
-- 📫 tcheldon.dev@gmail.com
+<!--- - 📫 tcheldon.dev@gmail.com --->
 <!--- I’m looking to collaborate on projects that allow me to develop my skills --->
 
 <!---
